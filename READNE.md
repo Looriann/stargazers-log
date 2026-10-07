@@ -1,2 +1,2 @@
 # stargazers-log
-hello im Loorian 这是我用来学习的第一个测试项目
+hello im Loorian 这是我学习git and这是一个测试
